@@ -6,8 +6,6 @@
 
 I’m Ere, a web artisan from Helsinki. I build websites that look and feel great. Being creative, solving problems and getting the small details right is what I do.
 
-I grew up on Suomenlinna, a sea fortress just off the coast of Helsinki. Both of my parents are artists, so making things always felt natural to me. I was on my way to becoming a chef when I changed course to the web. Today I’m also a father of two boys.
-
 ## What I do
 
 At [NoA Ignite](https://noaignite.com), I help develop and maintain the Duet design system at LähiTapiola and build accessible HTML prototypes. I also work on Reima’s product information service.
